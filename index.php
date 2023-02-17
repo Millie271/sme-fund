@@ -6,7 +6,14 @@
     <title>SME FUND Ke</title>
 </head>
 <body>
-    <h1></h1>
+<div class="landing-page-screen">
+    <div class="group-1">
+        <div class="logo">
+             <img class="sugar-cube" src="sugarcube-1.png" alt="sugar-cube"/>
+        </div> 
+         <div class="sme-fund-kenya"> SME Fund Kenya</div>
+    </div>
+</div> 
     
     
 </body>
