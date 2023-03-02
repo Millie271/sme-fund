@@ -931,3 +931,10 @@ body {
   color: var(--color-black);
   font-family: var(--font-inter);
 }
+.tel-020-2646327-container ul li{
+  list-style: none;
+}
+
+.tel-020-2646327-container ul li a{
+  text-decoration: none;
+}
