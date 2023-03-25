@@ -3,8 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-      "start": "parcel ./*.html",
-      "build": "parcel build ./*.html --dist-dir ./build"
+
     },
     "author": "",
     "license": "ISC",
@@ -13,3 +12,7 @@
     }
   }
   
+      "start": "parcel ./*.html ",
+      "build": "parcel build ./*.html  --dist-dir ./build"
+      "start": "parcel ./*.html",
+      "build": "parcel build ./*.html --dist-dir ./build"
